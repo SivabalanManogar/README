@@ -115,8 +115,6 @@ fun_fact: I turn coffee into code ☕ -> 💻
 
 <p align="center"><i>Thanks for stopping by — let's build something amazing! 🚀</i></p> -->
 
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=SIVA%20BALAN%20MANOGAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Data%20Science%20%26%20ML%20Enthusiast&descAlignY=58&descSize=19&animation=twinkling" width="100%"/>
@@ -240,3 +238,6 @@ fun_fact: I turn coffee into code ☕ -> 💻
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
 <p align="center"><i>⭐ Thanks for visiting — let's build something amazing together! 🚀</i></p>
+
+
+
