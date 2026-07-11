@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Siva%20Balan%20Manogar&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20IT%20Student%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Siva%20Balan%20Manogar&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20IT%20Student%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Siva+Balan+%F0%9F%91%8B;B.Tech+IT+Student;MERN+Stack+Developer;Data+Science+%26+ML+Enthusiast;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Siva+Balan+%F0%9F%91%8B;B.Tech+IT+Student;MERN+Stack+Developer;Data+Science+%26+ML+Enthusiast;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -23,7 +23,7 @@ fun_fact: I turn coffee into code ☕ -> 💻
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,nodejs,mongodb,express,js,html,css,python,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,react,nodejs,mongodb,express,js,html,css,python,git,github,vscode&theme=light" />
 </p>
 
 <br/>
@@ -66,16 +66,16 @@ fun_fact: I turn coffee into code ☕ -> 💻
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SivabalanManogar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SivabalanManogar&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SivabalanManogar&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SivabalanManogar&theme=default&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivabalanManogar&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivabalanManogar&layout=compact&theme=default&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SivabalanManogar&theme=tokyo-night&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SivabalanManogar&theme=github&hide_border=true" width="90%" />
 </p>
 
 <br/>
@@ -83,7 +83,7 @@ fun_fact: I turn coffee into code ☕ -> 💻
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SivabalanManogar/SivabalanManogar/output/github-contribution-grid-snake-dark.svg" width="90%" />
+  <img src="https://raw.githubusercontent.com/SivabalanManogar/SivabalanManogar/output/github-contribution-grid-snake.svg" width="90%" />
 </p>
 
 > ⚙️ **Setup note:** the snake animation above needs a one-time GitHub Actions workflow in this repo (generates automatically). Ask me and I'll set that up for you, or search "platane/snk snake animation" for the ready-made workflow file.
@@ -106,6 +106,6 @@ fun_fact: I turn coffee into code ☕ -> 💻
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" />
 
 <p align="center"><i>Thanks for stopping by — let's build something amazing! 🚀</i></p>
